@@ -1,7 +1,7 @@
 Hi 👋 My name is Lotfi Bendiaf
 ==============================
 
-Web developer & Doctoral teacher
+Web developer & Doctoral Researcher
 --------------------------------
 
 I am a software engineer and a Teacher researcher at the university. Developing is my passion, and solving problems is my ambition, and all this while having fun ✌🏼!
