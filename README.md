@@ -7,9 +7,9 @@ Web developer & Doctoral Researcher
 I am a software engineer and a Teacher researcher at the university. Developing is my passion, and solving problems is my ambition, and all this while having fun ✌🏼!
 
 * 🌍  I'm based in Oran
-* 🖥️  See my portfolio at [MyPersonal website](http://lotfibendiaf.herokuapp.com)
+* 🖥️  See my portfolio at [MyPersonal website](https://lotfibendiaf.site)
 * ✉️  You can contact me at [lotfi.m.bendiaf@gmail.com](mailto:lotfi.m.bendiaf@gmail.com)
-* 🚀  I'm currently working on [Kiddilycare](http://www.kiddilycare.com)
+* 🚀  I'm currently working on [CocoShine](https://cocoshine.vercel.app)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on E-commerce websites and learning platforms
 * ⚡  I love play basketball 🏀
